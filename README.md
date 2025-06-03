@@ -27,3 +27,6 @@ Run the Project
 
 Build and run the project through Visual Studio.
 Ensure that the application connects to the database correctly.
+
+Easy Rent (folder) -> Code with sln
+easy rent (folder)-> setupable folder .
